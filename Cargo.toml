@@ -1,0 +1,4 @@
+[package]
+authors = ["Berkus Decker <berkus+cargo@metta.systems>"]
+name = "coolhm"
+version = "0.1.0"
