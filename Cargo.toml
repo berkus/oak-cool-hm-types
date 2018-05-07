@@ -5,3 +5,4 @@ version = "0.1.0"
 
 [dependencies]
 oak = "0.5.7"
+oak_runtime = "0.5.5"
